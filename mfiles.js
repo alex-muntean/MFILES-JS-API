@@ -474,7 +474,6 @@ var MFiles = (function(){
 			getRecentlyAccessed: getRecentlyAccessed,
 			getDocumentsByClass: getDocumentsByClass,
 			getDocumentCollectionsByClass: getDocumentCollectionsByClass,
-			downloadFile: downloadFile,
 			searchDocuments: searchDocuments,
 		}
 	}
